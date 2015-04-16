@@ -1,4 +1,4 @@
-CursoR Abril del 2015D
+﻿CursoR Abril del 2015D
 
 Introducción
 
@@ -6,3 +6,4 @@ Autores: Julieta e Ivonne
 
 Me gusta tu chaleco
 
+Te ves bien de rojo =)
